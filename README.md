@@ -12,3 +12,9 @@ Online KYC system for government documents created for Standard Chartered Hackat
 - Integrating flask with HTML
 
 ### Created for standard chartered Hackthon
+
+#### Team TLE <br>
+[Naman Mardia](https://github.com/naman-1311) <br>
+[Naman Kankariya](https://github.com/VNamanKankaria) <br>
+[Yashita Thakur](https://github.com/yashitathakur) <br>
+[Nitin Tata](https://github.com/NITINTATA) 
