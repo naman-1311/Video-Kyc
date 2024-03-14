@@ -11,9 +11,8 @@ Online KYC system for government documents created for Standard Chartered Hackat
 - It was tough to extract the images from the pdfs with the correct facial image for comparing with the image captured by the web cam.
 - Integrating flask with HTML
 
-### Created for standard chartered Hackthon
-
-#### Team TLE <br>
+### Created for standard chartered Hackthon by
+#### Team SandBox <br>
 [Naman Mardia](https://github.com/naman-1311) <br>
 [Naman Kankariya](https://github.com/VNamanKankaria) <br>
 [Yashita Thakur](https://github.com/yashitathakur) <br>
