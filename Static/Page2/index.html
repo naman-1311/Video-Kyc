@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KYC Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>KYC Form</h1>
+    </header>
+    <section class="form-content">
+        <form id="kyc-form">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" pattern="[A-Za-z ]+" title="Name should contain only alphabets" required>
+            </div>
+            <br>
+            <div class="form-group">
+                <label for="dob">Date of Birth:</label>
+                <input type="date" id="dob" name="dob" required>
+            </div>
+            <br>
+            <div class="form-group">
+                <label for="account-number">Bank Account Number:</label>
+                <input type="text" id="account-number" name="account-number" pattern="[0-9]{16}" title="Bank account number should be 16 digits" required>
+            </div>
+            <br>
+            <button type="submit" class="btn" onclick="window.location.href='../page3/index.html';">Submit</button>
+            
+        </form>
+    </section>
+    <footer>
+        <p>&copy; 2024 KYC Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
