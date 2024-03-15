@@ -9,7 +9,7 @@ Online KYC system for government documents created for Standard Chartered Hackat
 ## Challenges we ran into
 - Difficult to implement face recognition from these documents since they were pixelated.
 - It was tough to extract the images from the pdfs with the correct facial image for comparing with the image captured by the web cam.
-- Integrating flask with HTML
+- Integrating with HTML
 
 ### Created for standard chartered Hackthon by
 #### Team SandBox <br>
